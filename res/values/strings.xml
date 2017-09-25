@@ -194,4 +194,7 @@
     <string name="battery_percent_outside">Show beside icon</string>
     <string name="battery_percent_inside">Show inside icon</string>
 
+    <!-- AppOps -->
+    <string name="appops_title">App Ops</string>
+    <string name="appops_summary">Advanced app permissions control</string>
 </resources>
